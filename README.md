@@ -10,3 +10,5 @@ Maybe it is a metadata section,
 Maybe it is a variable description
 
 Or all of the above.
+
+Here are the new changes
